@@ -14,8 +14,10 @@ The aim of this project was to analyse [how the weather changes](https://github.
  - Wind speed also appears unaffected by the latitude, usually staying between 0-20mph. However, there are a few cities in the higher latitude sections of the northern hemisphere that can potentially reach speeds over 50mph
 
 ## Created Google Maps
+Original heatmap:
 ![Original Heatmap](https://github.com/J-Fairgrieve/python-api-challenge/blob/main/output_data/gmap%2001.png)
 
+With 10 markers added:
 ![Added Markers](https://github.com/J-Fairgrieve/python-api-challenge/blob/main/output_data/gmap%2002.png)
 
 
