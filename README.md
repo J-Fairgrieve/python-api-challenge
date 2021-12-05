@@ -15,9 +15,11 @@ The aim of this project was to analyse [how the weather changes](https://github.
 
 ## Created Google Maps
 Original heatmap:
+
 ![Original Heatmap](https://github.com/J-Fairgrieve/python-api-challenge/blob/main/output_data/gmap%2001.png)
 
 With 10 markers added:
+
 ![Added Markers](https://github.com/J-Fairgrieve/python-api-challenge/blob/main/output_data/gmap%2002.png)
 
 
